@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2013\Projects\SSC-AI\SSC-AI\bin\Debug\SSC-AI.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\SSC-AI\SSC-AI\bin\Debug\SSC-AI.exe
+c:\users\acer\documents\visual studio 2013\Projects\SSC-AI\SSC-AI\bin\Debug\SSC-AI.pdb
+c:\users\acer\documents\visual studio 2013\Projects\SSC-AI\SSC-AI\obj\Debug\SSC-AI.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\SSC-AI\SSC-AI\obj\Debug\AHS.SSC.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\SSC-AI\SSC-AI\obj\Debug\SSC-AI.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\SSC-AI\SSC-AI\obj\Debug\SSC-AI.exe
+c:\users\acer\documents\visual studio 2013\Projects\SSC-AI\SSC-AI\obj\Debug\SSC-AI.pdb
+c:\users\acer\documents\visual studio 2013\Projects\SSC-AI\SSC-AI\obj\Debug\AHS.SSC.MainForm.resources
